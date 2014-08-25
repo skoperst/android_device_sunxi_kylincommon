@@ -1,0 +1,4 @@
+#allow system mali_device:chr_file rw_file_perms;
+allow system wallpaper_file:file relabelto;
+allow system anr_data_file:dir relabelto;
+

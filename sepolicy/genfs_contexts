@@ -1,0 +1,2 @@
+# sysfs labels can be set by userspace.
+genfscon fuseblk / u:object_r:sdcard_external:s0

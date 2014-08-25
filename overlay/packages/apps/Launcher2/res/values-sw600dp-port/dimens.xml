@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<add-resource type="dimen" name="workspace_icon_text_size"/>
+    <dimen name="workspace_icon_text_size">16px</dimen>
+</resources>

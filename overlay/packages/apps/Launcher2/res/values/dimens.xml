@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<add-resource type="dimen" name="workspace_icon_text_size"/>
+	<add-resource type="dimen" name="workspace_folder_text_size"/>
+	<add-resource type="dimen" name="widget_text_size"/>
+    <dimen name="workspace_icon_text_size">12px</dimen>
+	<dimen name="workspace_folder_text_size">12px</dimen>
+	<dimen name="widget_text_size">14px</dimen>
+</resources>

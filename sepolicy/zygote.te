@@ -1,0 +1,2 @@
+allow zygote sysfs:file write;
+allow zygote cgroup:file create_file_perms;

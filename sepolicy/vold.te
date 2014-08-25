@@ -1,0 +1,6 @@
+allow vold mount_exec:file x_file_perms;
+allow vold log_device:dir write;
+allow vold kernel:system module_request;
+allow vold device:file { create open write };
+allow vold proc:file write;
+

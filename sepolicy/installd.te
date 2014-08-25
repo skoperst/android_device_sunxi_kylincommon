@@ -1,0 +1,2 @@
+allow installd sysfs:file write;
+allow installd cgroup:file create_file_perms;
